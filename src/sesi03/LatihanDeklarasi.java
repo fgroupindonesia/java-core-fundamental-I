@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *  This is a Supplemental File from the Main Project used
+ *  in Java Programming Core Fundamental I
+ *  with FGroupIndonesia team.
  */
 package sesi03;
 

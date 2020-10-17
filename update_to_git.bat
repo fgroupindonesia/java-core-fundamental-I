@@ -1,4 +1,4 @@
 git add .
-git commit -m "adding Sesi#05 Evaluation of Homework 02, 03, and 04."
+git commit -m "adding Sesi#06 Operator, Method, and Array."
 git push origin main --force
 git gc --prune

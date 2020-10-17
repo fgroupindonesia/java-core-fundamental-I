@@ -19,7 +19,14 @@ public class MasakanIkan {
     boolean minOrder = true;
     boolean pedas = true, bumbuAsin = true;
     
+    public void hitungHarga(){
+        
+    }
     
+    private void hitungBonus(){
+        
+        
+    }
     // sertakan variable lain di bawah ini
     // expore dari masakanIkan #02
     
